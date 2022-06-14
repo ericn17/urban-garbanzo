@@ -1,4 +1,4 @@
-# README Generator
+# Team Profile Generator
   
   
   ![badge](https://img.shields.io/badge/license-MIT-blue)
