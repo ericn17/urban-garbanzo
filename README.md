@@ -15,15 +15,21 @@
   * [Questions](#questions)
   
   ## [Description](#table-of-contents)
+  
+  This app makes organizing teams easier by generating a team profile of your staff. It uses inquirer/node to prompt the user with questions to fill out that involves the individuals' name, email, and id. It will generate a html page with the users input. 
 
   ## [Installation](#table-of-contents)
-
+  
+Clone the github repository and install node and inquirer to run the questions in the command line. 
 
   
   ## [Usage](#table-of-contents)
+  
+ *Demo Video*
+ 
+ https://drive.google.com/file/d/1UJ6SXUuutu73JfN5z36d-2gwxExhjei6/view
  
 
-  
   ## [License](#table-of-contents)
   The application is covered under the following license:
   
