@@ -29,6 +29,9 @@ Clone the github repository and install node and inquirer to run the questions i
  
  https://drive.google.com/file/d/1UJ6SXUuutu73JfN5z36d-2gwxExhjei6/view
  
+ *Image of Generated html file*
+ 
+ ![_C__Users_15eng_OneDrive_Desktop_code_urban-garbanzo_dist_index html](https://user-images.githubusercontent.com/103549017/173723356-79798425-2152-478d-9b1f-6ec287a8c9f3.png)
 
   ## [License](#table-of-contents)
   The application is covered under the following license:
