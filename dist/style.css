@@ -1,0 +1,15 @@
+* {
+  font-family: monospace;
+}
+
+.navbar {
+  background-color: aqua;
+}
+
+#navbar-text {
+  font-size: 50px;
+}
+
+.card-header {
+  background-color: azure;
+}

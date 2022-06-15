@@ -1,17 +1,20 @@
 {
   "name": "urban-garbanzo",
   "version": "1.0.0",
-  "description": "![badge](https://img.shields.io/badge/license-MIT-blue)",
+  "description": "!This app generates a team profile generator",
   "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ericn17/urban-garbanzo.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Eric Nguyen",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ericn17/urban-garbanzo/issues"
@@ -19,5 +22,8 @@
   "homepage": "https://github.com/ericn17/urban-garbanzo#readme",
   "devDependencies": {
     "jest": "^28.1.1"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
   }
 }
