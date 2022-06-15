@@ -20,12 +20,14 @@
 
   ## [Installation](#table-of-contents)
   
-Clone the github repository and install inquirer.
+Clone the github repository and install node and inquirer to run the questions in the command line. 
 
   
   ## [Usage](#table-of-contents)
   
  *Demo Video*
+ 
+ https://drive.google.com/file/d/1UJ6SXUuutu73JfN5z36d-2gwxExhjei6/view
  
 
   ## [License](#table-of-contents)
