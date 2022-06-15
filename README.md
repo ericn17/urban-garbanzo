@@ -25,7 +25,7 @@ Clone the github repository and install inquirer.
   
   ## [Usage](#table-of-contents)
   
- It is a template to generate team profiles.
+ *Demo Video*
  
 
   ## [License](#table-of-contents)
